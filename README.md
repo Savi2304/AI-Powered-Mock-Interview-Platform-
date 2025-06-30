@@ -154,16 +154,6 @@ npm run dev
 4. Push to the branch
 5. Create a Pull Request
 
-## 📊 Performance Metrics
-
-- Lighthouse Score: 90+
-- Accessibility: WCAG 2.1 Compliant
-- Responsive Design: 100%
-- Browser Compatibility: Chrome, Firefox, Safari, Edge
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ## 🙌 Acknowledgements
 
